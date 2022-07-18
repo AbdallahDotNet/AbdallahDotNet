@@ -12,7 +12,7 @@
 - GraphQl & Rest Api
 - Angular
 - Blazor 
-- Entity FrameWork
+- Entity Framework
 - Ajax
 - Html
 - Css
