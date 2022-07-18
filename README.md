@@ -4,8 +4,8 @@
 - 📚 I have two years experience
 
 > Projects
-- Octpedia Mobile Application
-- Octpedia Business Mobile Application
+- Octpedia Mobile Application (api)
+- Octpedia Business Mobile Application (api)
 - Courses Center WebSite
 - Clinic System
 
