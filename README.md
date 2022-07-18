@@ -1,6 +1,13 @@
 # Hi There 👋
 - 👋 Hi, I’m Dot Net Developer In Octpedia
 - 👀 Keeping pace with technological development
+- 📚 I have two years experience
+
+> Projects
+- Octpedia Mobile Application
+- Octpedia Business Mobile Application
+- Courses Center WebSite
+- Clinic System
 
 > Skills
 - C# 
