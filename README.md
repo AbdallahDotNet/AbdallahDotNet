@@ -12,10 +12,9 @@
 > Skills
 - C# 
 - Asp.Net Core & Mvc 
-- Sql
+- Sql & mongodb & postgreSql
 - Dapper
 - Linq
-- MongoDb
 - GraphQl & Rest Api
 - Angular
 - Blazor 
