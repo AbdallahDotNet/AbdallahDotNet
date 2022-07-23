@@ -29,7 +29,7 @@
 - Angular
 - Blazor 
 - Entity Framework
-- Ajax
+- Ajax & SignalR
 - Html
 - Css
 - JavaScript & Jquery
