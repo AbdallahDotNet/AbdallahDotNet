@@ -11,10 +11,10 @@
 - I am currently working for Octopedia
 
 > Projects
-- Octpedia Mobile Application (api)
-- Octpedia Business Mobile Application (api)
-- Courses Center WebSite
-- Clinic System
+- Octpedia Mobile Application ( api )
+- Octpedia Business Mobile Application ( api )
+- Courses Center WebSite ( exist in repositories and open source )
+- Clinic System ( local system )
 
 > Skills
 - C# 
