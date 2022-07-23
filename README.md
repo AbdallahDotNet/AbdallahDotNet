@@ -7,7 +7,7 @@
 - I studied Information Systems at the Modern Academy in Maadi and holds a Bachelor's degree in Information Systems
 
 > Experience
-- I got a course from Root Center for web development
+- I got a course from Route Center for web development
 - I trained at KR coding
 - I worked as a freelance web developer
 - I got a job in a software company in Heliopolis
