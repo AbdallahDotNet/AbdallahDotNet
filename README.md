@@ -3,6 +3,9 @@
 - 👀 Keeping pace with technological development
 - 📚 I have two years experience
 
+> Education
+- I studied Information Systems at the Modern Academy in Maadi and holds a Bachelor's degree in Information Systems
+
 > Experience
 - I got a course from Root Center for web development
 - I trained at KR coding
