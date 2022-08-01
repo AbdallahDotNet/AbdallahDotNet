@@ -10,7 +10,7 @@
 - I got a course from Route Center for web development
 - I trained at KR coding
 - I worked as a freelance web developer
-- I got a job in a software company in Heliopolis
+- I worked for Easy Apps
 - I am currently working for Octopedia
 
 > Projects
