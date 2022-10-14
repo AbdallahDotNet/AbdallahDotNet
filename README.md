@@ -35,7 +35,6 @@
 - JavaScript & Jquery
 - Integration Testing & Unit Testing
 - Solid Principles
-- Design Patterns
 - AutoMapper
 <!---
 AbdallahDotNet/AbdallahDotNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
