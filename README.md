@@ -1,5 +1,5 @@
 # Hi There 👋
-- 👋 Hi, I’m Dot Net Developer In Octpedia
+- 👋 Hi, I’m Dot Net Developer In Egypt Trust
 - 👀 Keeping pace with technological development
 - 📚 I have two years experience
 
@@ -11,7 +11,8 @@
 - I trained at KR coding
 - I worked as a freelance web developer
 - I worked for Easy Apps
-- I am currently working for Octopedia
+- I worked for Octopedia
+- I am working in Egypt Trust
 
 > Projects
 - Octpedia Mobile Application ( api )
@@ -37,6 +38,8 @@
 - Solid Principles
 - Design Patterns
 - AutoMapper
+- Clean Arcticture
+- CQRS & Mediatr
 <!---
 AbdallahDotNet/AbdallahDotNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
